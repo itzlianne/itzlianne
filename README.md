@@ -5,12 +5,11 @@ I enjoy learning new things, building projects, and helping others solve tech pr
 
 ### 🌱 Currently Learning
 - Computer Science fundamentals
-- Python and C++
 - Web development (HTML, CSS, JavaScript)
 - Cybersecurity basics
 
 ### 💻 Projects
-Beginner GitHub tutorial
+-
 
 ### 📫 Contact Me
 - Email: itzlianne07@gmail.com
