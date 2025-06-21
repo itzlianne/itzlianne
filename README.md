@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Adrianna 👋
 
-<!--
-**itzlianne/itzlianne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Malaysia and I'm planning on persuing Computer Science in university.  
+I enjoy learning new things, building projects, and helping others solve tech problems!
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Computer Science fundamentals
+- Python and C++
+- Web development (HTML, CSS, JavaScript)
+- Cybersecurity basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+Beginner GitHub tutorial
+
+### 📫 Contact Me
+- Email: itzlianne07@gmail.com
+- LinkedIn: Adrianna Wong(https://www.linkedin.com)
+
+### ⚡ Fun Fact
+I just finished SPM this year, and I'm going to study in Sunway College starting this August!
